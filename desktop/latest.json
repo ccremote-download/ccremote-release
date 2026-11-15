@@ -1,11 +1,11 @@
 {
-  "version": "0.7.7",
-  "notes": "Logo: chỗ lõm trong lòng chữ C cong như đuôi bên ngoài",
-  "pub_date": "2026-11-14T16:22:14.053Z",
+  "version": "0.7.8",
+  "notes": "Thanh tiêu đề liền màu với app, tên CCRemote cạnh logo",
+  "pub_date": "2026-11-15T12:00:26.929Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE1kWjVJaVhJRDlzbHpNa1Uxak5EVGlNRTB0L1YrcTFxZXBCWE96MCtrT2VlZ0FwV0NteEsxNlBpWEZVanJ4YjhVRHY0Q3M4RUs3TTNzSDlRZXg0TmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjczMzMzCWZpbGU6Q0NSZW1vdGVfMC43LjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy43ClEvRGZWSGFScVRnSVFnclNQZlNsc1FkZHJ1UE9zdGRrYnFsTjkyblZBR21JM0R0N01DRldNTzNHOTJVMWdlaUdzalpBUlVRVzhOZ1dibURBLzRzM0JRPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.7/CCRemote_0.7.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEJ4ZkZNRnFaclhLZ1N6Uk1wM24zVzdhMTZrTUhPL3JIdDlZZjVneHBUNTl1bm9yNTVTazMyWWVReG5LeGV6SmtlWmZ4dEtVN0w1UElidWRJTnF3OEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ0MDI2CWZpbGU6Q0NSZW1vdGVfMC43LjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy44CnJHN0VvWWhsR25nKzdqY0NYTld6QUxuVFVBN0l3amFuTEJwREhkMUpmZkFIVjJ1ejVIVmxiV1NoOW13T1VqUFRFWFYrWGM5TGFTc0hUdzIxR1dzUENnPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.8/CCRemote_0.7.8_x64-setup.exe"
     }
   }
 }
