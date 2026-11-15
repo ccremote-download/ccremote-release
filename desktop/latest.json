@@ -1,11 +1,11 @@
 {
-  "version": "0.7.8",
-  "notes": "Thanh tiêu đề liền màu với app, tên CCRemote cạnh logo",
-  "pub_date": "2026-11-15T12:00:26.929Z",
+  "version": "0.7.9",
+  "notes": "Giao diện theo bố cục macOS: cột trái nổi, thanh đường dẫn, nút thao tác xếp dọc; Cài đặt gọn hơn",
+  "pub_date": "2026-11-15T15:33:08.803Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEJ4ZkZNRnFaclhLZ1N6Uk1wM24zVzdhMTZrTUhPL3JIdDlZZjVneHBUNTl1bm9yNTVTazMyWWVReG5LeGV6SmtlWmZ4dEtVN0w1UElidWRJTnF3OEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ0MDI2CWZpbGU6Q0NSZW1vdGVfMC43LjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy44CnJHN0VvWWhsR25nKzdqY0NYTld6QUxuVFVBN0l3amFuTEJwREhkMUpmZkFIVjJ1ejVIVmxiV1NoOW13T1VqUFRFWFYrWGM5TGFTc0hUdzIxR1dzUENnPT0K",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.8/CCRemote_0.7.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEMwNGI0dFlqL1dqdGNnWDZRZ3hpbVlHNFRHSXZpMlEvZzRDNjY5TXE1M3RKMi9Gc2Nmd3RFWVoxNEVWNGFFaWpVeDJQQ2R4VFdpREJMV1UwSDBmbWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU2Nzg4CWZpbGU6Q0NSZW1vdGVfMC43LjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNy45Ck1uZVNOT2c3SVRmU204Q1FaSmlQbFp4cWpkWXlUK3BIRk9WMGxRb0pTanF4YnFlUXFDSkpXYTBtcGJ2SGw5ek9SQjN2UG1kblhPb0Vub2ZaVloxQ0RRPT0K",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.9/CCRemote_0.7.9_x64-setup.exe"
     }
   }
 }
