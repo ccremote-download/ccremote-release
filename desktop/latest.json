@@ -1,11 +1,11 @@
 {
-  "version": "0.7.10",
-  "notes": "Thanh đường dẫn chỉ ở màn chat; nút Chat mới, Lịch sử, Mở trong thư mục, Xóa chat hiện thẳng",
-  "pub_date": "2026-11-16T15:59:22.394Z",
+  "version": "0.7.11",
+  "notes": "Chat của máy tính hiện lại trên điện thoại sau khi máy bị gỡ rồi đăng nhập lại; giao diện thống nhất tiếng Việt.",
+  "pub_date": "2026-11-17T15:42:11.211Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9BbUdBU1pULzYwNUZCYnhoSHVBWEhTSkxuTWpPWU5MTCsyd241cDlheElEN2J0UXkzTm9yTm1hSm1Jb2Z4a1BnZVhFRTN1QkNqMmYzZmxHbWNDZGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQ0NzYyCWZpbGU6Q0NSZW1vdGVfMC43LjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTAKZGRKL2VEdE1ESVYwRWpOeTdhbmJveVltWW5DaXBYNkVRTU54eTlNdW9vazFPYmpRcTJaaXRlSWcvbTNnOU9jeXk1UHdaaWw5UkEwdGYyUm1hdHhUQkE9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.10/CCRemote_0.7.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEphemduVVd1YkM2WldUaFVSN0dsY1d4clFtT1hNKytjYUlLWTIrdnRQeDkwZStCa00zUmY0V2c0bmZNbkMzYVNQaXhRdjRBck82aDdvQktMVEViK3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTMwMTMxCWZpbGU6Q0NSZW1vdGVfMC43LjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTEKQWswTmYyWHVsaXBvY2trWDd4aisrYk5GV01ZNTYzV280RXFqb2MzN2dIOW95NzFKSEZnRVNZRndzZXlHTjVpK0JPUHN1NFZrUUYzbTh2TWJGZ0h0Q0E9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.11/CCRemote_0.7.11_x64-setup.exe"
     }
   }
 }
