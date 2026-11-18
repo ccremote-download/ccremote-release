@@ -1,11 +1,11 @@
 {
-  "version": "0.7.11",
-  "notes": "Chat của máy tính hiện lại trên điện thoại sau khi máy bị gỡ rồi đăng nhập lại; giao diện thống nhất tiếng Việt.",
-  "pub_date": "2026-11-17T15:42:11.211Z",
+  "version": "0.7.12",
+  "notes": "Mở lại thư mục đã có từ điện thoại không còn báo \"Không tìm thấy cuộc trò chuyện\"; chữ tiếng Việt không trộn chữ Anh (trợ lý, cuộc trò chuyện, tệp).",
+  "pub_date": "2026-11-18T12:42:12.983Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEphemduVVd1YkM2WldUaFVSN0dsY1d4clFtT1hNKytjYUlLWTIrdnRQeDkwZStCa00zUmY0V2c0bmZNbkMzYVNQaXhRdjRBck82aDdvQktMVEViK3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTMwMTMxCWZpbGU6Q0NSZW1vdGVfMC43LjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTEKQWswTmYyWHVsaXBvY2trWDd4aisrYk5GV01ZNTYzV280RXFqb2MzN2dIOW95NzFKSEZnRVNZRndzZXlHTjVpK0JPUHN1NFZrUUYzbTh2TWJGZ0h0Q0E9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.11/CCRemote_0.7.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5OYlNXbnF4VUxEbmNWcFZuQ0NxNWRrVWJkZ2VESWZmaG1MQytRYWYzVVcrSnNOa1BhWm1XcDcrT2VwRTIxd3lvaldTZ3YxdFhIRWRUa0lXT3JjdGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA1NzMyCWZpbGU6Q0NSZW1vdGVfMC43LjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTIKdlg0Wk9qVm5YeUNlMmNmTmNzVFNVOWU2c1FPc2dLT1ppZ0ZieDlzNjc5c09OQnBoc21DZTlOcTlkNWJvcjBIVkNjQlU5Z0hRZExWUFlCV2tiVENDQXc9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.12/CCRemote_0.7.12_x64-setup.exe"
     }
   }
 }
