@@ -1,11 +1,11 @@
 {
-  "version": "0.7.12",
-  "notes": "Mở lại thư mục đã có từ điện thoại không còn báo \"Không tìm thấy cuộc trò chuyện\"; chữ tiếng Việt không trộn chữ Anh (trợ lý, cuộc trò chuyện, tệp).",
-  "pub_date": "2026-11-18T12:42:12.983Z",
+  "version": "0.7.13",
+  "notes": "Giao diện tiếng Việt gọi agent là \"tác nhân\".",
+  "pub_date": "2026-11-18T13:01:43.199Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE5OYlNXbnF4VUxEbmNWcFZuQ0NxNWRrVWJkZ2VESWZmaG1MQytRYWYzVVcrSnNOa1BhWm1XcDcrT2VwRTIxd3lvaldTZ3YxdFhIRWRUa0lXT3JjdGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA1NzMyCWZpbGU6Q0NSZW1vdGVfMC43LjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTIKdlg0Wk9qVm5YeUNlMmNmTmNzVFNVOWU2c1FPc2dLT1ppZ0ZieDlzNjc5c09OQnBoc21DZTlOcTlkNWJvcjBIVkNjQlU5Z0hRZExWUFlCV2tiVENDQXc9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.12/CCRemote_0.7.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE1nQk1zL1pKNTNJSU8wc3UxbENkSy91U0lzUkRkN24zYitoZXdEVTVBcmthOEdrMm1CMW5rc1YxaVM2THM5MTR1VUZQKytmVVJNTnloRlNtNWlDcFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA2OTAyCWZpbGU6Q0NSZW1vdGVfMC43LjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTMKZDFpSThWTXhzYmY4am9zdWo1OWZPUmlCQnZxdTgxVENrOG1LckYzc3BkNUhmTlFWcHhaSmV5bnZ1WHhGL0pDWW1FUDgyUi95RVkzN2JOaHV3Wit6Q3c9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.13/CCRemote_0.7.13_x64-setup.exe"
     }
   }
 }
