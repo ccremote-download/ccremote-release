@@ -1,11 +1,11 @@
 {
-  "version": "0.7.15",
-  "notes": "Nút Mở trong thư mục là hình tròn riêng, bấm thanh đường dẫn để chép đường dẫn, icon khay đúng màu logo.",
-  "pub_date": "2026-11-19T10:49:36.644Z",
+  "version": "0.7.16",
+  "notes": "Chọn mô hình / mức suy luận: bỏ ô Mặc định, đánh dấu thẳng mô hình và mức mặc định. Codex chỉ hiện các mức như chính Codex (Thấp, Vừa, Cao, Rất cao).",
+  "pub_date": "2026-11-19T12:26:38.072Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WElVT3BVTGFQQnUrc2dzRVFoQUZmbEEyRzMvNmdKV05vZk1oWW1xb3FPeTg4TlV5VVJQaGg3cUdHSTBmQ2pPMDE4ZkFSUUtTNVZ6aUFjTDBraXJ5eHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg1Mzc2CWZpbGU6Q0NSZW1vdGVfMC43LjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTUKTmxpemxlNTJWVG9majFTZW1LRDhVRit5Mm1PSmczRWVicXNsMVBlQmxQbWFsZWtkVTVYTVhBcG9ZNzlpYkxxbDlmZkJtbHhuT2MxUXRKYmtpU09SRFE9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.15/CCRemote_0.7.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEw2OUJISEtEc1JiQW1VNXZTeGNwQ09YTU1jbVZnUUdMbUlQc0oySk5HQ1BNOW5aMTlNVmVCZmFoSTVYZmZDOWZTUEFEbTFqWS9GMCtIbkRPVDdvY1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDkxMTk3CWZpbGU6Q0NSZW1vdGVfMC43LjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTYKTlhjcHJSMEkxK0U1R0NMdW5yaktTRU90V2pOdDBuREt6bDB5QXMwUVg0dWlCeC80U3UvMnZKWjlpTTkwNjFJN0Ewb2h0WHJxbnMzUFVPZWFLWHh4Q3c9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.16/CCRemote_0.7.16_x64-setup.exe"
     }
   }
 }
