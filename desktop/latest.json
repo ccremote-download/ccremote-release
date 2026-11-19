@@ -1,11 +1,11 @@
 {
-  "version": "0.7.14",
-  "notes": "Lịch sử trò chuyện là tấm nổi như cột trái, nút Mở trong thư mục nằm trên thanh đường dẫn, cột trái và khung chọn mô hình rộng hơn.",
-  "pub_date": "2026-11-19T10:11:24.596Z",
+  "version": "0.7.15",
+  "notes": "Nút Mở trong thư mục là hình tròn riêng, bấm thanh đường dẫn để chép đường dẫn, icon khay đúng màu logo.",
+  "pub_date": "2026-11-19T10:49:36.644Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEdWbk5jRCtHcmQwT25vckc0b2U4YUsydXR1MTZaMHptZTBxVTdMemhLV0xXdWowTmVzeVM2bHE4RC9UZTNmZnpTZ1BhQ3l4NHkyLzFwaTE3WHAydmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDgzMDg0CWZpbGU6Q0NSZW1vdGVfMC43LjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTQKRDZYOUFYaXlQMVZqSGZHQXpQWGVjbWNKWDAvYUEzR1AvZ010OWhDNHZxYWRLTVdrc1ZBYnRDSmpwM1lFZ0NTclZzaVgvd1c0SjJ4ZW0xV1pkTnYxRGc9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.14/CCRemote_0.7.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WElVT3BVTGFQQnUrc2dzRVFoQUZmbEEyRzMvNmdKV05vZk1oWW1xb3FPeTg4TlV5VVJQaGg3cUdHSTBmQ2pPMDE4ZkFSUUtTNVZ6aUFjTDBraXJ5eHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg1Mzc2CWZpbGU6Q0NSZW1vdGVfMC43LjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTUKTmxpemxlNTJWVG9majFTZW1LRDhVRit5Mm1PSmczRWVicXNsMVBlQmxQbWFsZWtkVTVYTVhBcG9ZNzlpYkxxbDlmZkJtbHhuT2MxUXRKYmtpU09SRFE9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.15/CCRemote_0.7.15_x64-setup.exe"
     }
   }
 }
