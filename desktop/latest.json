@@ -1,11 +1,11 @@
 {
-  "version": "0.7.17",
-  "notes": "Dịch mô tả model của Codex trong picker model",
-  "pub_date": "2026-11-19T15:45:27.124Z",
+  "version": "0.7.18",
+  "notes": "Thanh kéo mức suy luận dày hơn; trang cài đặt tự lưu, bỏ nút ở góc; quản lý tiện ích từ điện thoại.",
+  "pub_date": "2026-11-19T17:08:08.017Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEx5MDdpL1FYUjRINmNScmNXcHJ1VDRhUDNIZFE4OUVBTWJsK2lzUzBhL2pjYXNaSEoyNFc5NDdOQzZiRWtnN2ZvWWV5ZTQrWGdWVktsdDJhV3p4TkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAzMTI2CWZpbGU6Q0NSZW1vdGVfMC43LjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTcKaXJROHdLWTRWVzlvMFltWEFrTnZSWFVjS1RacG44aGZHM0ErNUQvWFNTQ0tUelNWV3QvSmpaQlg2ZTl1ZTFTSnNNYnFFL0kvNFRURmdkVTlWci9GQ1E9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.17/CCRemote_0.7.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEVNMzlTM2V6VGcxbU1YeGY4WFBxMzJGcmkwa3ZTcjgzSzUwTlRIZ2V3Qmh1c3VYR3E0b3JoblcvV2llSmowQ2EwcFUrRy9VVFRqUktsLy9yMFpGS0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA4MDg3CWZpbGU6Q0NSZW1vdGVfMC43LjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTgKRkllaE94Smc1OTU3b2piejdFNlRBbi8rVEhzYTc0UzhsdDlWbENEamUvVG8xOWUvY3RqUjlFbjBnODhkVUxZcWhDNm0zMFc5eHZJSkpUTG1ZRzBGRFE9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.18/CCRemote_0.7.18_x64-setup.exe"
     }
   }
 }
