@@ -1,11 +1,11 @@
 {
-  "version": "0.7.18",
-  "notes": "Thanh kéo mức suy luận dày hơn; trang cài đặt tự lưu, bỏ nút ở góc; quản lý tiện ích từ điện thoại.",
-  "pub_date": "2026-11-19T17:08:08.017Z",
+  "version": "0.7.19",
+  "notes": "Dòng \"Đang làm việc\" không còn đè lên giờ và nút chép của tin trước; icon Tiện ích mới (mảnh ghép).",
+  "pub_date": "2026-11-20T10:42:45.977Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEVNMzlTM2V6VGcxbU1YeGY4WFBxMzJGcmkwa3ZTcjgzSzUwTlRIZ2V3Qmh1c3VYR3E0b3JoblcvV2llSmowQ2EwcFUrRy9VVFRqUktsLy9yMFpGS0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA4MDg3CWZpbGU6Q0NSZW1vdGVfMC43LjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTgKRkllaE94Smc1OTU3b2piejdFNlRBbi8rVEhzYTc0UzhsdDlWbENEamUvVG8xOWUvY3RqUjlFbjBnODhkVUxZcWhDNm0zMFc5eHZJSkpUTG1ZRzBGRFE9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.18/CCRemote_0.7.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEkwdzFNYVhYUmM1ajZicHMwN3VOWGJCN1o5K1JhSlpnbEpPZE1NbDZIcE1QVmVmRHQ5RlhseUZTaFVPeXVaUVpQQ1Q3TklBTkI0VXRZRUtoMEQ4VXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTcxMzY1CWZpbGU6Q0NSZW1vdGVfMC43LjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMTkKVllaOXJuVmw3OXJLMkxSSmRLRFVnaDFUY1I0byt6Y21zN2htRUxYOWNoNTdoKzl0bkZlWXlNQVBES3ZQSVBHNVpTU090WHJSUi9KK3I0ZWhDdVpzQ0E9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.19/CCRemote_0.7.19_x64-setup.exe"
     }
   }
 }
