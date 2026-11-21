@@ -1,11 +1,11 @@
 {
-  "version": "0.7.20",
-  "notes": "Icon mới (Phosphor); mỗi trạng thái một màu và có chuyển động; vòng chấm xoay thay ba chấm; sắp lại thanh bên; bộ chọn model/chế độ không tự đóng; bỏ thư mục gợi ý; ổ đĩa viết hoa.",
-  "pub_date": "2026-11-21T17:02:07.408Z",
+  "version": "0.7.21",
+  "notes": "Duyệt quyền trên máy tính thì điện thoại tự gỡ thẻ; thẻ yêu cầu quyền gọn hơn; tin ghim không còn đường kẻ, tin ngắn giữ nguyên độ rộng; ô tìm kiếm mới; avatar màu đặc chữ trắng.",
+  "pub_date": "2026-11-21T17:55:12.892Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WFBGUWxDUkNMU1dMQ05oVzBBNGszMHEwQzlwUnpUK1YyWnFXYWRnZnJIRHJZcnFDRW5ZUExLVGZSbGlvblM1dlg0L3l4S05QK3RRTENMbW54Y2JKZWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgwNTI3CWZpbGU6Q0NSZW1vdGVfMC43LjIwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjAKSVBKYzBzZi95QmFpd0E1MlRoamVjODhMSTJON2F2Tm83TFFxS0t5bWxpMFNOSXhyaHczWk9URGIrbUJoY2hnbGlsT3kwNXpiMjZTRXRXRFVnRmo3QkE9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.20/CCRemote_0.7.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEpzU3pnL0ZwTkZYUGl3d3ArMlEraktxd0pWWDAzQ1VkdHo2R0ZGTGZySzNEYWIxeHlYNlJIWDdHbnFRaVBncjQ2dE05TGZKMW11Y1p1dWE2Wm1yK2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgzNzEyCWZpbGU6Q0NSZW1vdGVfMC43LjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjEKMEFRV29zcmtzTjBJbTJ3aG1pKzhaSW1TdFllS1h6NXkrQU5VZ1JaNXh1ZExYUjRIN0NCdGNoL2t5Y2pwK1NraHJqWVBReGM5TjBGNGFaYzM0cGdKQVE9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.21/CCRemote_0.7.21_x64-setup.exe"
     }
   }
 }
