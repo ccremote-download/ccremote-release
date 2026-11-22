@@ -1,11 +1,11 @@
 {
-  "version": "0.7.24",
-  "notes": "Khối nút của màn trò chuyện gọn trong viền, thanh cuộn sát mép phải; nút ở đầu cột trái cách đều viền; kính lúp ô tìm kiếm gần chữ hơn",
-  "pub_date": "2026-11-22T07:35:20.430Z",
+  "version": "0.7.25",
+  "notes": "Danh sách trò chuyện hiện câu trả lời cuối thay cho chữ Xong.",
+  "pub_date": "2026-11-22T16:25:39.560Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE00SUJnc3BuRGh1cTRnYUJTZUcvOHJsRjJZb2tDWWRSV0hUMXozTjBKYzNKSnE1U3hVK0ZrSHZPUlJNZHg2d0lGYXRtbGNkL1RIR1R0VGZrRXI4UHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMyOTIwCWZpbGU6Q0NSZW1vdGVfMC43LjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjQKZVdNY2c0ZnNSTW02Ukw1QVZya2E0eWI0U29XRUplajNmWDFXVTFMZm81MHNjRzRiQm1wSVhsdjFKN2hVZVpNd2wzNHZNbm5MeFFMZ2NCWkEvMzJJQVE9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.24/CCRemote_0.7.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9FRVh0SUxrOThZNXJxWXd0YjhTYm9LQWFTbWQrYk9mR2w2OW52VW1YRW1rMmVjUU4zaVpKYVZFTWwrNVgyUkpmcmlWNk1FcGp5WXcwbHlNaWtpeFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY0NzM5CWZpbGU6Q0NSZW1vdGVfMC43LjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjUKSFVxMkhFMG1uK2hSd0dRSkcwQ21kOHBtaVUxS2lKT3BrZGsxelQ4YjZ0endVT1BITGFBaGVuak1hSExiQ1BHM3ZGYUtvS25TMk9JZnFTMldnSHVLQ2c9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.25/CCRemote_0.7.25_x64-setup.exe"
     }
   }
 }
