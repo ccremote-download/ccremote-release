@@ -1,11 +1,11 @@
 {
-  "version": "0.7.22",
-  "notes": "Nút gọn hơn, chữ nằm giữa; icon to hơn; logo, cột trái và thanh đường dẫn thẳng hàng",
-  "pub_date": "2026-11-22T04:56:12.482Z",
+  "version": "0.7.23",
+  "notes": "Logo thanh điều hướng nhỏ hơn; nút icon vuông, vùng rê chuột cân đối",
+  "pub_date": "2026-11-22T07:04:34.670Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEVIcEtJL0RjNHlROFY3RlVZbXMrdEFJQ2YwNVhNanlBWWdtK1o0cWVYM0dabTNWZEJYZjV2MzE2UkxhUlRqTk45ZzZvMlorVnU5K2dvUXBoQjAvQlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzIzMzcyCWZpbGU6Q0NSZW1vdGVfMC43LjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjIKKzZBUmhieWx0NlFTQ2owZ2xUeDVxVkYxUGxmSGhqdzlCSUNla1ZkcjNxa3R2dUFmRHFEUDhMUmJPTmhQV3hZUmduQXN5RkRtNkhsVnhCYTVIdUFJQ0E9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.22/CCRemote_0.7.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEdYeVp2YjNBZGlNMk1zZDdBT21RNXF0UE1FSUhlelFENzRvNGlGT0pCOGpnQ1pCcDQvelBVeGloTEczMk5OeEhFSy9wZ3hnTUVhbTluMSs0MnJMWkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMxMDc0CWZpbGU6Q0NSZW1vdGVfMC43LjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjMKWk41TmR1ZVEzcmtySUlIOVFzdms4V1NOS0l5YzJwZkgzaWFVeHBaUlB1dHF3Rkw1NEE1aVh5bzRJMXU4eStVWXRjY0diWkFrQnhmZDh0UjFjUzVWQlE9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.23/CCRemote_0.7.23_x64-setup.exe"
     }
   }
 }
