@@ -1,11 +1,11 @@
 {
-  "version": "0.7.23",
-  "notes": "Logo thanh điều hướng nhỏ hơn; nút icon vuông, vùng rê chuột cân đối",
-  "pub_date": "2026-11-22T07:04:34.670Z",
+  "version": "0.7.24",
+  "notes": "Khối nút của màn trò chuyện gọn trong viền, thanh cuộn sát mép phải; nút ở đầu cột trái cách đều viền; kính lúp ô tìm kiếm gần chữ hơn",
+  "pub_date": "2026-11-22T07:35:20.430Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEdYeVp2YjNBZGlNMk1zZDdBT21RNXF0UE1FSUhlelFENzRvNGlGT0pCOGpnQ1pCcDQvelBVeGloTEczMk5OeEhFSy9wZ3hnTUVhbTluMSs0MnJMWkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMxMDc0CWZpbGU6Q0NSZW1vdGVfMC43LjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjMKWk41TmR1ZVEzcmtySUlIOVFzdms4V1NOS0l5YzJwZkgzaWFVeHBaUlB1dHF3Rkw1NEE1aVh5bzRJMXU4eStVWXRjY0diWkFrQnhmZDh0UjFjUzVWQlE9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.23/CCRemote_0.7.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE00SUJnc3BuRGh1cTRnYUJTZUcvOHJsRjJZb2tDWWRSV0hUMXozTjBKYzNKSnE1U3hVK0ZrSHZPUlJNZHg2d0lGYXRtbGNkL1RIR1R0VGZrRXI4UHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMyOTIwCWZpbGU6Q0NSZW1vdGVfMC43LjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjQKZVdNY2c0ZnNSTW02Ukw1QVZya2E0eWI0U29XRUplajNmWDFXVTFMZm81MHNjRzRiQm1wSVhsdjFKN2hVZVpNd2wzNHZNbm5MeFFMZ2NCWkEvMzJJQVE9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.24/CCRemote_0.7.24_x64-setup.exe"
     }
   }
 }
