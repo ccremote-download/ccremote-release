@@ -1,11 +1,11 @@
 {
-  "version": "0.7.21",
-  "notes": "Duyệt quyền trên máy tính thì điện thoại tự gỡ thẻ; thẻ yêu cầu quyền gọn hơn; tin ghim không còn đường kẻ, tin ngắn giữ nguyên độ rộng; ô tìm kiếm mới; avatar màu đặc chữ trắng.",
-  "pub_date": "2026-11-21T17:55:12.892Z",
+  "version": "0.7.22",
+  "notes": "Nút gọn hơn, chữ nằm giữa; icon to hơn; logo, cột trái và thanh đường dẫn thẳng hàng",
+  "pub_date": "2026-11-22T04:56:12.482Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEpzU3pnL0ZwTkZYUGl3d3ArMlEraktxd0pWWDAzQ1VkdHo2R0ZGTGZySzNEYWIxeHlYNlJIWDdHbnFRaVBncjQ2dE05TGZKMW11Y1p1dWE2Wm1yK2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgzNzEyCWZpbGU6Q0NSZW1vdGVfMC43LjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjEKMEFRV29zcmtzTjBJbTJ3aG1pKzhaSW1TdFllS1h6NXkrQU5VZ1JaNXh1ZExYUjRIN0NCdGNoL2t5Y2pwK1NraHJqWVBReGM5TjBGNGFaYzM0cGdKQVE9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.21/CCRemote_0.7.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WEVIcEtJL0RjNHlROFY3RlVZbXMrdEFJQ2YwNVhNanlBWWdtK1o0cWVYM0dabTNWZEJYZjV2MzE2UkxhUlRqTk45ZzZvMlorVnU5K2dvUXBoQjAvQlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzIzMzcyCWZpbGU6Q0NSZW1vdGVfMC43LjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjIKKzZBUmhieWx0NlFTQ2owZ2xUeDVxVkYxUGxmSGhqdzlCSUNla1ZkcjNxa3R2dUFmRHFEUDhMUmJPTmhQV3hZUmduQXN5RkRtNkhsVnhCYTVIdUFJQ0E9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.22/CCRemote_0.7.22_x64-setup.exe"
     }
   }
 }
