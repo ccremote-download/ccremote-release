@@ -1,11 +1,11 @@
 {
-  "version": "0.7.27",
-  "notes": "Chat mới: ô soạn tin ở giữa màn. Gộp hai công tắc khởi động thành một. Đổi tên: Trò chuyện mới, Xóa, Tác nhân, Đăng xuất thiết bị. Ô nhập trong Cài đặt canh giữa dòng.",
-  "pub_date": "2026-11-24T16:13:34.319Z",
+  "version": "0.7.28",
+  "notes": "Bỏ icon trang trí ở màn chính và hộp xác nhận. Chữ trong ô nhập canh giữa. Icon cân với chữ trong nút, mục Cài đặt và ô soạn tin.",
+  "pub_date": "2026-11-24T16:39:11.128Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9TTjZ1cnlPWStvTGZycjRoSFVHNWNQUWM4bXlVaUdLUjkrUDNYNm05YjlOS0F0Q1owb1FPRFFkYkh4Z2dCVDNoajU5Ti9YR3ZZcDFGN3U4LzhDRWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM2ODE0CWZpbGU6Q0NSZW1vdGVfMC43LjI3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjcKTmxVTy82VmRzc09iSUlXaWwwYmtsTU9Od2hGSGphNHp6a2pJKzZFWmJzZ2lFTUx0anBaUEtEc0NSeW41SWY3RG9XRzgvUHZ2NjdWTENpM3RrM3cxRGc9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.27/CCRemote_0.7.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WERlTytiLzdUZFh2S0RaeGxsRU11YnUxWjNzdVpadkZRQW9jSXVlTEdqVEtsalFsN1A5cjZpYm1aOTVRdG5CYUFlR2tNZWp2QTdhV0ovWHJLZnZqUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM4MzUwCWZpbGU6Q0NSZW1vdGVfMC43LjI4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjgKWkM1RDkvQnpxZnZ2RWtuY0ltMllicUFxdmdSYmxwZW0rY0hxSENMM0R2d0Y2ZkZNRG00MmZCUGlGUGxQRkczYzdrbWdRbEN1WE5LUHJZb3h3WG5LRHc9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.28/CCRemote_0.7.28_x64-setup.exe"
     }
   }
 }
