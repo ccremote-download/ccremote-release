@@ -1,11 +1,11 @@
 {
-  "version": "0.7.25",
-  "notes": "Danh sách trò chuyện hiện câu trả lời cuối thay cho chữ Xong.",
-  "pub_date": "2026-11-22T16:25:39.560Z",
+  "version": "0.7.26",
+  "notes": "Đính kèm tệp vào tin nhắn (nút +), nhận tệp gửi từ điện thoại",
+  "pub_date": "2026-11-24T13:04:09.739Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9FRVh0SUxrOThZNXJxWXd0YjhTYm9LQWFTbWQrYk9mR2w2OW52VW1YRW1rMmVjUU4zaVpKYVZFTWwrNVgyUkpmcmlWNk1FcGp5WXcwbHlNaWtpeFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY0NzM5CWZpbGU6Q0NSZW1vdGVfMC43LjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjUKSFVxMkhFMG1uK2hSd0dRSkcwQ21kOHBtaVUxS2lKT3BrZGsxelQ4YjZ0endVT1BITGFBaGVuak1hSExiQ1BHM3ZGYUtvS25TMk9JZnFTMldnSHVLQ2c9PQo=",
-      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.25/CCRemote_0.7.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WERzWHlyWmxHaHFoSkVBTWpXS1EwMlJaTDJpWWJISVdSZEZYMnJicmdiYlJvbjNLY3dKNTZNbXBFMGdqOFQyOXZHejdQN3pHREJGQzNNc0VHbDl5ZFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI1NDQ5CWZpbGU6Q0NSZW1vdGVfMC43LjI2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjYKdnFNRU1hQXh1TWlQUGRmbDhSaEdiaVhDSjFtTXBUSmxDMmF5MXRJeEVuOWxKdFFZQTJjNzZER3VCOXRydEcvempGaGszVXFWRmNZTVpqRklqWCtnRHc9PQo=",
+      "url": "https://github.com/supsquad/ccremote-release/releases/download/desktop-v0.7.26/CCRemote_0.7.26_x64-setup.exe"
     }
   }
 }
