@@ -1,11 +1,11 @@
 {
-  "version": "0.7.29",
-  "notes": "Thoát từ khay dừng cả daemon; bản đầu tiên phát hành từ ccremote-download",
-  "pub_date": "2026-11-25T15:00:12.976Z",
+  "version": "0.7.30",
+  "notes": "Chuyển backend sang ccremote-api.sup-squad.com (máy đã cài tự chuyển)",
+  "pub_date": "2026-11-26T14:23:07.880Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WE9GZzRvVUhuaHY1Vnk2aFgxNkZnQUpKNElNWEp4OURQQVBtYitOWE9aYkpmcnNyV2dUSTRYS2hIK0haaWNDcC84eko2NEloSEpUUms0UnBpVmJsWGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4ODEyCWZpbGU6Q0NSZW1vdGVfMC43LjI5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMjkKakdqeFJyRFJRaHNjaTRzSm8wYm5ENE5xRDVxSGVVbDFHUHJhaVE3b1V2dzg0RG8yZWZYY3FwaXc0ZCtnYW4xRVk2ME1yaWdydlIxR1dSN0xyd2JnQnc9PQo=",
-      "url": "https://github.com/ccremote-download/ccremote-release/releases/download/desktop-v0.7.29/CCRemote_0.7.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGgwTDZrRVc1WExEN1FtbGk0UVRCN1BlWTVQR21Xc1phem5SMENVRitvblo5WlZwWHVsVzk5aE5CazBsa3JUSHJ5bEM4YnphN3lrNjhDd1BhVUQ4cnJBUDFlUHl3VFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAyOTg3CWZpbGU6Q0NSZW1vdGVfMC43LjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMzAKWmpYNUhaYVVwZFZWajFNUTNVNlNXNkxPRGFQSy9yMEhzbFJIZEI0VE5RQjlWeWhOcUxFWVQ2SU53K1YwbjNLbzQyUTdhSXV5KzR0bnNQUzJwZjVzRGc9PQo=",
+      "url": "https://github.com/ccremote-download/ccremote-release/releases/download/desktop-v0.7.30/CCRemote_0.7.30_x64-setup.exe"
     }
   }
 }
