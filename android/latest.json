@@ -1,7 +1,7 @@
 {
-  "version_name": "1.5.41",
-  "version_code": 54,
-  "apk_url": "https://github.com/ccremote-download/ccremote-release/releases/download/android-v1.5.41/ccremote-1.5.41.apk",
-  "sha256": "08412b39b3894316135da1e7f4a8c4d0c8fbf63d5a4e470891281a914bc204b0",
+  "version_name": "1.5.42",
+  "version_code": 55,
+  "apk_url": "https://github.com/ccremote-download/ccremote-release/releases/download/android-v1.5.42/ccremote-1.5.42.apk",
+  "sha256": "9dfc77801d1c2a3f2f37ea396d3f158a12981b8b250bde6a09151d8d7c72f6c1",
   "size": 65505196
 }
